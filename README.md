@@ -13,4 +13,3 @@
 
 	$ git clone ssh:
 
-space length (inc order: &thinsp;,&nbsp;,&ensp;&emsp;
