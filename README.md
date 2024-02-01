@@ -7,8 +7,8 @@
 <br />  &ensp; scikitlearn
 <br />  &emsp; pandas
 <br /> ***Data Visualization***
-<br />  power bi
-<br />  excel
+<br />  &thinsp;power bi
+<br />  &nbsp; excel
 <br />  tableau
 
 	$ git clone ssh:
