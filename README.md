@@ -4,8 +4,8 @@
 
 <br /> ***SQL***
 <br /> ***Python (packages)***
-<br />  scikitlearn
-<br />  pandas
+<br />  &ensp; scikitlearn
+<br />  &emsp; pandas
 <br /> ***Data Visualization***
 <br />  power bi
 <br />  excel
