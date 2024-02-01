@@ -4,11 +4,13 @@
 
 <br /> ***SQL***
 <br /> ***Python (packages)***
-<br />  &ensp; scikitlearn
+<br />  &emsp; scikitlearn
 <br />  &emsp; pandas
 <br /> ***Data Visualization***
-<br />  &thinsp;power bi
-<br />  &nbsp; excel
+<br />  &emsp; power bi
+<br />  &emsp; excel
 <br />  tableau
 
 	$ git clone ssh:
+
+space length (inc order: &thinsp;,&nbsp;,&ensp;&emsp;
