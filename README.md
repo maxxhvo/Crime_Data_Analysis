@@ -1,12 +1,12 @@
 # Data_Science_GP
 
-planned skills to develop:
+planned skills to develop: 
 
-SQL
-Python (packages)
-  scikitlearn
-  pandas
-Data Visualization
-  power bi
-  excel
-  tableau
+<br /> SQL
+<br /> Python (packages)
+<br />  scikitlearn
+<br />  pandas
+<br /> Data Visualization
+<br />  power bi
+<br />  excel
+<br />  tableau
