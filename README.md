@@ -11,4 +11,4 @@
 <br />  excel
 <br />  tableau
 
-	`$ git clone ssh:`
+	$ git clone ssh:
