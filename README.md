@@ -9,7 +9,7 @@
 <br /> ***Data Visualization***
 <br />  &emsp; power bi
 <br />  &emsp; excel
-<br />  tableau
+<br />  &emsp; tableau
 
 	$ git clone ssh:git@github.com:maxxhvo/Data_Science_GP.git
 
