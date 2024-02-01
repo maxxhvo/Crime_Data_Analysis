@@ -11,5 +11,5 @@
 <br />  &emsp; excel
 <br />  tableau
 
-	$ git clone ssh:
+	$ git clone ssh:git@github.com:maxxhvo/Data_Science_GP.git
 
